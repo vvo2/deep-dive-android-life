@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item
+    android:id="@+id/action_step"
+    android:title="@string/step_title"
+    app:showAsAction="ifRoom" />
+
+  <item
+    android:id="@+id/action_run"
+    android:title="@string/run_title"
+    app:showAsAction="ifRoom" />
+
+  <item
+    android:id="@+id/action_stop"
+    android:title="@string/stop_title"
+    app:showAsAction="ifRoom" />
+
+  <item
+    android:id="@+id/action_reset"
+    android:title="@string/reset_title"
+    app:showAsAction="ifRoom" />
+</menu>

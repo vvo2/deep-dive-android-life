@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Life</string>
+  <string name="step_title">Step</string>
+  <string name="run_title">Run</string>
+  <string name="stop_title">Stop</string>
+  <string name="reset_title">Reset</string>
+  <string name="density_label">Density</string>
+  <string name="generation_format">Generation:%1$,d</string>
+</resources>
