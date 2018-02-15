@@ -5,20 +5,24 @@
   <item
     android:id="@+id/action_step"
     android:title="@string/step_title"
+    android:icon="@drawable/play"
     app:showAsAction="ifRoom" />
 
   <item
     android:id="@+id/action_run"
     android:title="@string/run_title"
+    android:icon="@drawable/run"
     app:showAsAction="ifRoom" />
 
   <item
     android:id="@+id/action_stop"
     android:title="@string/stop_title"
+    android:icon="@drawable/pause"
     app:showAsAction="ifRoom" />
 
   <item
     android:id="@+id/action_reset"
     android:title="@string/reset_title"
+    android:icon="@drawable/reset"
     app:showAsAction="ifRoom" />
 </menu>
